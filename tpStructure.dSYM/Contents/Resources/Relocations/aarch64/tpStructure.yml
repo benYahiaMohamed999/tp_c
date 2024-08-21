@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rochdi/Desktop/tp_c/tpStructure'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _trouve, symObjAddr: 0x0, symBinAddr: 0x100003968, symSize: 0x94 }
+  - { offsetInCU: 0x98, offset: 0x98, size: 0x8, addend: 0x0, symName: _trouve, symObjAddr: 0x0, symBinAddr: 0x100003968, symSize: 0x94 }
+  - { offsetInCU: 0xEA, offset: 0xEA, size: 0x8, addend: 0x0, symName: _remplir, symObjAddr: 0x94, symBinAddr: 0x1000039FC, symSize: 0x194 }
+  - { offsetInCU: 0x12A, offset: 0x12A, size: 0x8, addend: 0x0, symName: _saisie, symObjAddr: 0x228, symBinAddr: 0x100003B90, symSize: 0x5C }
+  - { offsetInCU: 0x152, offset: 0x152, size: 0x8, addend: 0x0, symName: _strupr, symObjAddr: 0x284, symBinAddr: 0x100003BEC, symSize: 0x68 }
+  - { offsetInCU: 0x188, offset: 0x188, size: 0x8, addend: 0x0, symName: _affiche_dell, symObjAddr: 0x2EC, symBinAddr: 0x100003C54, symSize: 0x78 }
+  - { offsetInCU: 0x1C8, offset: 0x1C8, size: 0x8, addend: 0x0, symName: _afficher, symObjAddr: 0x364, symBinAddr: 0x100003CCC, symSize: 0xC0 }
+  - { offsetInCU: 0x208, offset: 0x208, size: 0x8, addend: 0x0, symName: _marq_distinct, symObjAddr: 0x424, symBinAddr: 0x100003D8C, symSize: 0xF8 }
+  - { offsetInCU: 0x268, offset: 0x268, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x51C, symBinAddr: 0x100003E84, symSize: 0x68 }
+...

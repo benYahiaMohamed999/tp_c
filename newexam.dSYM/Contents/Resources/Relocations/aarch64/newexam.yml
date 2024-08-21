@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rochdi/Desktop/tp_c/newexam'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _inst_tete, symObjAddr: 0x0, symBinAddr: 0x100003728, symSize: 0x50 }
+  - { offsetInCU: 0x79, offset: 0x79, size: 0x8, addend: 0x0, symName: _inst_tete, symObjAddr: 0x0, symBinAddr: 0x100003728, symSize: 0x50 }
+  - { offsetInCU: 0xBD, offset: 0xBD, size: 0x8, addend: 0x0, symName: _inst_quequ, symObjAddr: 0x50, symBinAddr: 0x100003778, symSize: 0xB0 }
+  - { offsetInCU: 0x10F, offset: 0x10F, size: 0x8, addend: 0x0, symName: _cree, symObjAddr: 0x100, symBinAddr: 0x100003828, symSize: 0xA0 }
+  - { offsetInCU: 0x161, offset: 0x161, size: 0x8, addend: 0x0, symName: _affiche, symObjAddr: 0x1A0, symBinAddr: 0x1000038C8, symSize: 0x6C }
+  - { offsetInCU: 0x193, offset: 0x193, size: 0x8, addend: 0x0, symName: _ins_apresk, symObjAddr: 0x20C, symBinAddr: 0x100003934, symSize: 0xE4 }
+  - { offsetInCU: 0x201, offset: 0x201, size: 0x8, addend: 0x0, symName: _sup_valuer, symObjAddr: 0x2F0, symBinAddr: 0x100003A18, symSize: 0xE8 }
+  - { offsetInCU: 0x26F, offset: 0x26F, size: 0x8, addend: 0x0, symName: _sup_premoc, symObjAddr: 0x3D8, symBinAddr: 0x100003B00, symSize: 0xF0 }
+  - { offsetInCU: 0x2C1, offset: 0x2C1, size: 0x8, addend: 0x0, symName: _nb_ocurence, symObjAddr: 0x4C8, symBinAddr: 0x100003BF0, symSize: 0x7C }
+  - { offsetInCU: 0x313, offset: 0x313, size: 0x8, addend: 0x0, symName: _sup_occ, symObjAddr: 0x544, symBinAddr: 0x100003C6C, symSize: 0x94 }
+  - { offsetInCU: 0x373, offset: 0x373, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x5D8, symBinAddr: 0x100003D00, symSize: 0x1B0 }
+...
